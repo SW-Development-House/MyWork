@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 unwanted_file.txt
-*_BACKUP_*
-*_BASE_*
-*_LOCAL_*
-*_REMOTE_*
+CSS/unwanted_file_2.txt
+CSS/unwanted_file_4.txt
+=======
+unwanted_file.txt
+>>>>>>> dc2fc58... Added unwanted_file_4.txt
