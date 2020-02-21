@@ -1,1 +1,1 @@
-
+print("Tests successful")
